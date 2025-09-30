@@ -165,9 +165,10 @@ Follow these instructions to set up and run the project locally.
 
 In this project, I contributed to the following features and improvements:
 
-- Developed **CRUD endpoints for blog posts** (create, read, update, delete)
+- Developed **CRUD endpoints for blog posts and comments** (create, read, update, delete)
 - Implemented **filtering and search functionalities** for blogs
 - Added **caching with thread-safe invalidation** to improve performance and consistency
 - Implemented **popularity tracking using goroutines**, calculating blog scores based on likes, views, and comments
 
 **Original repository:** [gedyzed/blog-starter-project](https://github.com/gedyzed/blog-starter-project)
+
